@@ -11,12 +11,12 @@
     "sasslint": "sass-lint -c .sass-lint.yml -v -f table"
   },
   "devDependencies": {
-    "concurrently": "^5.1.0",
-    "live-server": "^1.2.1",
-    "node-sass": "^4.13.1",
-    "normalize.css": "^8.0.1",
-    "sass-lint": "^1.13.1",
-    "tjw-sasslint-rules": "^2.1.0"
+    "concurrently": "latest",
+    "live-server": "latest",
+    "node-sass": "latest",
+    "normalize.css": "latest",
+    "sass-lint": "latest",
+    "tjw-sasslint-rules": "latest"
   },
   "keywords": [],
   "author": "TheJaredWilcurt/Gwendolyn Faraday",
